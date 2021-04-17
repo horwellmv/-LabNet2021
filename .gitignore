@@ -1,5 +1,6 @@
 *.DS_Store
 bin/
 .VS/
-.obj/
+obj/
 *EjercicioPOO.sln
+*EjercicioPOO.csproj
