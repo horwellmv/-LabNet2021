@@ -1,0 +1,12 @@
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/bin/Debug/netcoreapp3.1/EjercicioPOO.deps.json
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/bin/Debug/netcoreapp3.1/EjercicioPOO.runtimeconfig.json
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/bin/Debug/netcoreapp3.1/EjercicioPOO.runtimeconfig.dev.json
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/bin/Debug/netcoreapp3.1/EjercicioPOO.dll
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/bin/Debug/netcoreapp3.1/EjercicioPOO.pdb
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.csprojAssemblyReference.cache
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.AssemblyInfoInputs.cache
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.AssemblyInfo.cs
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.csproj.CoreCompileInputs.cache
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.dll
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.pdb
+/Users/Horwell/Desktop/-LabNet2021/EjercicioPOO/EjercicioPOO/obj/Debug/netcoreapp3.1/EjercicioPOO.genruntimeconfig.cache

@@ -1,3 +1,5 @@
 *.DS_Store
 bin/
 .VS/
+.obj/
+*EjercicioPOO.sln
