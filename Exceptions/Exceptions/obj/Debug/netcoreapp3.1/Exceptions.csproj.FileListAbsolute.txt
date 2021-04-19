@@ -1,0 +1,12 @@
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.deps.json
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.json
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.dev.json
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.dll
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.pdb
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csprojAssemblyReference.cache
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfoInputs.cache
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfo.cs
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csproj.CoreCompileInputs.cache
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.dll
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.pdb
+/Users/Horwell/Desktop/LabNet2021/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.genruntimeconfig.cache
